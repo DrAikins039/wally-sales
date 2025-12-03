@@ -6,5 +6,5 @@ scikit-learn
 plotly
 statsmodels
 scipy
-ml_rev
 pmdarima
+
